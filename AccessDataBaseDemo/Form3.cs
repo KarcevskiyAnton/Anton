@@ -28,7 +28,7 @@ namespace AccessDataBaseDemo
         {
             OleDbDataAdapter da = new OleDbDataAdapter(c, connectString);
             DataSet ds = new DataSet();
-            da.Fill(ds, "sotrudniki");
+            da.Fill(ds, "sotrud");
             dataGridView1.DataSource = ds.Tables[0].DefaultView;
             myConnection = new OleDbConnection(connectString);
             myConnection.Open();
@@ -42,7 +42,7 @@ namespace AccessDataBaseDemo
             dataGridView1.DataSource = ds.Tables[0].DefaultView;
             myConnection = new OleDbConnection(connectString);
             myConnection.Open();
-            label1.Text = "Должность";
+            label1.Text = "ID:";
 
         }
 
@@ -72,11 +72,11 @@ namespace AccessDataBaseDemo
 
         private void button4_Click(object sender, EventArgs e)
         {
-            string query = ("DELETE FROM sotrud  WHERE id = @I ");
+            string query = ("DELETE FROM sotrudniki  WHERE id = @I ");
 
 
             OleDbCommand command = new OleDbCommand(query, myConnection);
-            command.Parameters.AddWithValue("@I", Convert.ToInt32(textBox4.Text));
+            command.Parameters.AddWithValue("@I", Convert.ToInt32(textBox1.Text));
 
 
 

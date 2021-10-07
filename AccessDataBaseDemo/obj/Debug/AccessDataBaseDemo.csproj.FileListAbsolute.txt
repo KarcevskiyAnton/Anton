@@ -160,3 +160,16 @@ F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.
 F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
 F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
 F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+F:\laba OPI 1,1\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+F:\laba OPI 1,1\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+F:\laba OPI 1,1\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form6.resources
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+F:\laba OPI 1,1\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb

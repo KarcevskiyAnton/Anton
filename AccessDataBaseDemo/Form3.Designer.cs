@@ -78,12 +78,11 @@
             this.button4.TabIndex = 29;
             this.button4.Text = "УДАЛИТЬ";
             this.button4.UseVisualStyleBackColor = true;
-            this.button4.Visible = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(224, 139);
+            this.button2.Location = new System.Drawing.Point(168, 139);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 27;
