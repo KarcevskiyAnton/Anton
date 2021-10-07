@@ -1,0 +1,162 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\AccessDataBaseDemo — копия — копия (2)\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\лаба 26,27,28\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\докумены\лаба 26,27,28 — копия — копия\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\зад бд\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form6.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form5.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form6.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form7.resources
+C:\Users\антон\Desktop\2 pract\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form8.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form5.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form6.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form7.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form8.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\антон\Desktop\2 pract — молчан\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+F:\2-3 курс\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+F:\2-3 курс\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+F:\2-3 курс\2 practica\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.AssemblyReference.cache
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form6.resources
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+F:\2-3 курс\2 practica\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojAssemblyReference.cache
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form2.resources
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form3.resources
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form6.resources
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.cache
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.CoreCompileInputs.cache
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+F:\2-3 курс\laba OPI\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
