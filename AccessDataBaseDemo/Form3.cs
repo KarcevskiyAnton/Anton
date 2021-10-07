@@ -48,21 +48,7 @@ namespace AccessDataBaseDemo
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string query = ("INSERT INTO sotrud ( fio,  dol, razryad,id) VALUES (@F,@S,@t,@I)");
-
-
-            OleDbCommand command = new OleDbCommand(query, myConnection);
-            command.Parameters.AddWithValue("@F", textBox1.Text);
-
-            command.Parameters.AddWithValue("@S", textBox2.Text);
-            command.Parameters.AddWithValue("@t", textBox3.Text);
-            command.Parameters.AddWithValue("@I", Convert.ToInt32(textBox4.Text));
-
-
-
-
-            command.ExecuteNonQuery();
-            MessageBox.Show("Добавлено успешно");
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
